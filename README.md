@@ -1,4 +1,4 @@
-# ProWebAdv - Automação Web
+# RF-PW-Advanced: Cenários Dinâmicos e Edge Cases
 
 Projeto focado na resolução de cenários complexos de automação utilizando **Robot Framework** e **Browser Library (Playwright)**.
 
